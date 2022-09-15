@@ -1,0 +1,23 @@
+{
+  "software_component": {
+    "id": "lifter",
+    "version": "1.0",
+    "release_time": "2022-08 22 11:41:42:5010CET",
+    "input_event": [
+      {
+        "name": "Lift to gripper position"
+      },
+	  {
+        "name": "Go home position"
+      }
+    ],
+    "output_event": [
+      {
+        "name": "home position"
+      },
+	  {
+        "name": "gripper position"
+      }
+    ]
+  }
+}

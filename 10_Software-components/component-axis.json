@@ -1,0 +1,23 @@
+{
+  "software_component": {
+    "id": "axis",
+    "version": "1.0",
+    "release_time": "2022-08 22 11:41:42:5010CET",
+    "input_event": [
+      {
+        "name": "move to pickup position"
+      },
+	  {
+        "name": "move to drop position"
+      }
+    ],
+    "output_event": [
+      {
+        "name": "in pickup position"
+      },
+	  {
+        "name": "in home position"
+      }
+    ]
+  }
+}

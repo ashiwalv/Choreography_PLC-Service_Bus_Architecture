@@ -1,0 +1,29 @@
+{
+  "software_component": {
+    "id": "spinnergripper",
+    "version": "1.0",
+    "release_time": "2022-08 22 11:41:42:5010CET",
+    "input_event": [
+      {
+        "name": "hold spinner"
+      },
+	  {
+        "name": "release spinner"
+      },
+	  {
+        "name": "flip spinner"
+      }
+    ],
+    "output_event": [
+      {
+        "name": "spinner held"
+      },
+	  {
+        "name": "spinner released"
+      },
+	  {
+        "name": "spinner flipped"
+      }
+    ]
+  }
+}
